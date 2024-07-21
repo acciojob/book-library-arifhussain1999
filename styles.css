@@ -47,12 +47,12 @@ body {
 
 .book-details p {
     margin: 0 0 10px 0;
-    color: rgb(119, 119, 119); /* rgb(119, 119, 119) */
+    color: #777777; /* rgb(119, 119, 119) */
 }
 
 .price-block {
-    background-color: rgb(46, 204, 113); /* rgb(46, 204, 113) */
-    color: rgb(255, 255, 255); /* rgb(255, 255, 255) */
+    background-color: #2ecc71; /* rgb(46, 204, 113) */
+    color: #ffffff; /* rgb(255, 255, 255) */
     padding: 5px 10px;
     border-radius: 5px;
     font-weight: bold;
