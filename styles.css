@@ -33,13 +33,12 @@ body {
 }
 
 .book-details p {
-    margin: 0 0 10px 0;
-    color: #777777;
+    color: rgb(119, 119, 119); /* This should be rgb(119, 119, 119) */
 }
 
 .price-block {
-    background-color: #2ecc71;
-    color: #ffffff;
+    background-color: rgb(46, 204, 113); /* This should be rgb(46, 204, 113) */
+    color: rgb(255, 255, 255); /* This should be rgb(255, 255, 255) */
     padding: 5px 10px;
     border-radius: 5px;
     font-weight: bold;
